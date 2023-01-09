@@ -4,7 +4,7 @@ This is a Convolutional Neural Network (CNN)Deep Learning model built in PyTorch
 
 The dataset was created from 18,000 google images which has approximately similar amount of each 20 characters. 
 
-The data cleansing was done by removing the multi-face images using MTCNN.
+The data cleansing was done by removing the multi-face images using MTCNN in google collab.
 
 The accuracy of the CNN model is 71%.
 
