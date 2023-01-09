@@ -9,5 +9,5 @@ The data cleansing was done by removing the multi-face images using MTCNN in goo
 The accuracy of the CNN model is 71%.
 
 References:
-https://pytorch.org/
-https://stackoverflow.com/questions/65105644/how-to-face-extraction-from-images-in-a-folder-with-mtcnn-in-python
+1. https://pytorch.org/
+2. https://stackoverflow.com/questions/65105644/how-to-face-extraction-from-images-in-a-folder-with-mtcnn-in-python
