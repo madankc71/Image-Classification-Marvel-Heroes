@@ -1,4 +1,4 @@
-# MarvelHeroesClassification
+# Marvel Hero Character Classification
 
 This is a Convolutional Neural Network (CNN)Deep Learning model built in PyTorch. The model classifies 20 different marvel hero characters.
 
